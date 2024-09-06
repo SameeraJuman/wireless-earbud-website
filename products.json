@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Bose QuietComfort Ultra Earbuds",
+    "price": 299,
+    "image": "images/bose.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sony WF-1000XM5",
+    "price": 152.66,
+    "image": "images/p2replace.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Soundpeats Air3 Deluxe HS",
+    "price": 25,
+    "image": "images/p3.webp"
+  },
+  {
+    "id": 4,
+    "name": "Apple AirPods 3rd Generation",
+    "price": 179,
+    "image": "images/p4.png"
+  },
+  {
+    "id": 5,
+    "name": "Google Pixel Buds Pro",
+    "price": 143.03,
+    "image": "images/p5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bowers & Wilkins PI7 S2",
+    "price": 399,
+    "image": "images/p6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Jabra Elite 8 Active",
+    "price": 122.19,
+    "image": "images/p7.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Master & Dynamic MW09",
+    "price": 349,
+    "image": "images/p8.webp"
+  },
+  {
+    "id": 9,
+    "name": "Technics EAH-AZ80",
+    "price": 238.13,
+    "image": "images/p9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Creative Labs Aurvana Ace 2",
+    "price": 99.5,
+    "image": "images/p10.jpg"
+  }
+]
